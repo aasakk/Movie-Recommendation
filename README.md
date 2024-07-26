@@ -1,5 +1,5 @@
   # Movie-Recommendation
-Project Overview
+Project Overview: 
 The Movie Recommendation System is designed to suggest movies to users based on their past preferences. This system utilizes collaborative filtering and content-based filtering techniques to provide personalized movie recommendations. By analyzing user ratings and movie features, the system predicts what movies a user might enjoy, enhancing their movie-watching experience.
 
 Features
